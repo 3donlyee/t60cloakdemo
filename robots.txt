@@ -1,5 +1,3 @@
-# task60: crawlers are forced to the obfuscated link
 User-agent: *
-Allow: /t60cloakdemo/+-/,,+apX+,-431,,/-+59-+,768-+,-21/2024/01/payment/244-,+,MZZ+,-42,-72,+/+-+295-rvbk,/+-+609,,/+-,5Ye+-/,,/-9684890.html
-Disallow: /t60cloakdemo/
+Allow: /
 Sitemap: https://3donlyee.github.io/t60cloakdemo/sitemap.xml
