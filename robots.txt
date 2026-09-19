@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://3donlyee.github.io/t60cloakdemo/sitemap.xml
